@@ -1,0 +1,19 @@
+Group Members: Eilish Boyd, Alyssia Smith and Leticia Salazar
+
+Project: GoodRead Book Analysis
+
+Description:
+
+We will be using the following two data sets to analysis how many of the books listed were turned into movies.
+
+1. https://www.kaggle.com/zygmunt/goodbooks-10k#books.csv
+2. https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
+We will be cleaning the Goodbooks-10K data to extract the following columns to use for our analysis:
+
+1. Book_ID
+2. Title
+3. Authors
+
+From the TMDB-Movie we will extract Title only to do our analysis.
+
