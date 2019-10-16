@@ -1,3 +1,7 @@
+** disregard this, report is a google doc **
+
+
+EXTRACT
 sources: 
 1.) https://www.kaggle.com/zygmunt/goodbooks-10k#books.csv
      - books.csv -- dataset contains metadata for each listed book (goodreads IDs, book title, author, rating, etc.).
@@ -8,9 +12,11 @@ sources:
      -tmdb_5000_credits.csv -- dataset contains metadata on each listed movie (ID, title, information on cast and crew). 
      We only pulled movie title from this file because we wanted to see which books were turned into movies.
 
+TRANSFORM
 transformation needed:
 
 
+LOAD
 final production database: relational
 
 
