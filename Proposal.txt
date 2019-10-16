@@ -4,7 +4,7 @@ Project: GoodRead Book Analysis
 
 Description:
 
-We will be using the following two data sets to analysis how many of the books listed were turned into movies.
+We will be using the following two data sets to analyze how many of the books listed were turned into movies.
 
 1. https://www.kaggle.com/zygmunt/goodbooks-10k#books.csv
 2. https://www.kaggle.com/tmdb/tmdb-movie-metadata
