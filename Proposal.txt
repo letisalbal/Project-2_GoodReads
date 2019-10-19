@@ -6,8 +6,9 @@ Description:
 
 We will be using the following two data sets to analyze how many of the books listed were turned into movies.
 
-1. https://www.kaggle.com/zygmunt/goodbooks-10k#books.csv
-2. https://www.kaggle.com/tmdb/tmdb-movie-metadata
+1.https://www.kaggle.com/tmdb/tmdb-movie-metadata
+2.https://www.kaggle.com/zygmunt/goodbooks-10k#books.csv
+
 
 We will be cleaning the Goodbooks-10K data to extract the following columns to use for our analysis:
 
@@ -15,5 +16,8 @@ We will be cleaning the Goodbooks-10K data to extract the following columns to u
 2. Title
 3. Authors
 
-From the TMDB-Movie we will extract Title only to do our analysis.
+From the TMDB-Movie we will extract:
+1. Title
+2. Release_Date
+3. Original_Language
 
